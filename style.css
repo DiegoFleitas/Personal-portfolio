@@ -5,6 +5,12 @@ html {
     background-color: white;
 }
 
+.image{
+    width:100%;
+    max-width:350px;
+    max-height:250px;
+}
+
 body,
 h1,
 h2,
@@ -30,7 +36,7 @@ h6 {
     padding-bottom: 50px;
     text-align: center;
     color: #f8f8f8;
-    background: url(http://i.imgur.com/yQ3uV9Jg.jpg) no-repeat center center;
+    background: url(https://static.pexels.com/photos/577585/pexels-photo-577585.jpeg) no-repeat center center;
     background-size: cover;
 }
 
@@ -43,7 +49,7 @@ h6 {
 .intro-message > h1 {
     margin: 0;
     text-shadow: 2px 2px 3px rgba(0,0,0,0.6);
-    font-size: 5em;
+    font-size: 4em;
 }
 
 .intro-divider {
@@ -82,8 +88,8 @@ h6 {
 
 .network-name {
     text-transform: uppercase;
-    font-size: 14px;
-    font-weight: 400;
+    font-weight: bold;
+    font-size: 18px;
     letter-spacing: 2px;
 }
 
@@ -111,7 +117,7 @@ h6 {
 .banner {
     padding: 100px 0;
     color: #f8f8f8;
-    background: url(http://i.imgur.com/s0f5PqV.jpg) no-repeat center center;
+    background: url(https://static.pexels.com/photos/546819/pexels-photo-546819.jpeg) no-repeat center center;
     background-size: cover;
 }
 
